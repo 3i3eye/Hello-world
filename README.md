@@ -1,2 +1,9 @@
 # Hello-world
-Learning to dive in
+when you run it, it will say hello world i love you. 
+
+INSTALLATION 
+git clone 
+https://github.com/3i3eye/Hello-world.git
+cd Hello-world
+ls
+python ily.py
