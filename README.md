@@ -7,3 +7,11 @@ https://github.com/3i3eye/Hello-world.git
 cd Hello-world
 ls
 python ily.py
+
+
+or
+
+
+python i.py
+
+it give your ip details using api
